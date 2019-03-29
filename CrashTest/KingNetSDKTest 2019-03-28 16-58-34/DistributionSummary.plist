@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KingNetSDKTest.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string></string>
+				<key>dateExpires</key>
+				<string></string>
+				<key>type</key>
+				<string>Unknown</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string></string>
+						<key>dateExpires</key>
+						<string></string>
+						<key>type</key>
+						<string>Unknown</string>
+					</dict>
+					<key>name</key>
+					<string>KingNetSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>A623WJ345Z</string>
+						<key>name</key>
+						<string>Jianguo Zhou</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string></string>
+						<key>dateExpires</key>
+						<string></string>
+						<key>type</key>
+						<string>Unknown</string>
+					</dict>
+					<key>name</key>
+					<string>KingNetSDKResource</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>A623WJ345Z</string>
+						<key>name</key>
+						<string>Jianguo Zhou</string>
+					</dict>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>KingNetSDKTest.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>A623WJ345Z</string>
+				<key>name</key>
+				<string>Jianguo Zhou</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
